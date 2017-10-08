@@ -24,8 +24,7 @@
  * Output:
  * @param sum = la somma dei numeri
  * @param D = La durata dell'esecuzione della somma (in microsecondi e secondi)
- * @param SP = La Sustained Performance calcolata come D/T(n) -
- * The algorithm T(n) = n-1 (Sum of n numbers)
+ * @param SP = La Sustained Performance calcolata come T(n)/D
  *
  *
  */
